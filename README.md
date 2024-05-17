@@ -14,7 +14,12 @@ here's how i did it:
 
 
 
-To run the game you MUST install python on your Computer, which you find here: https://www.python.org/downloads/
+To run the game you MUST install python on your Computer, which you can download from here: https://www.python.org/downloads/ (personally, i recommend downloading the latest version of it)
+
+project made using PyCharm and the pygame library which is installed using cmd (or the ide terminal) and the next command: pip install pygame.
+
+
+
 
 
 Note that the executable file is found in the "dist" folder:
