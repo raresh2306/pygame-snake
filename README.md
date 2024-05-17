@@ -12,6 +12,8 @@ To turn into exe file i used pyinstaller, which you can install by oppening cmd 
 here's how i did it:
 ![turn into exe](https://github.com/raresh2306/pygame-snake/assets/167786098/e45dd2ba-b5bc-4941-8c02-2888759b389a)
 
+
+
 To run the game you MUST install python on your Computer, which you find here: https://www.python.org/downloads/
 
 
