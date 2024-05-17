@@ -14,9 +14,20 @@ here's how i did it:
 
 To run the game you MUST install python on your Computer, which you find here: https://www.python.org/downloads/
 
+
 Note that the executable file is found in the "dist" folder:
 ![unde e](https://github.com/raresh2306/pygame-snake/assets/167786098/76ae099f-4117-4a28-8830-e446702bfa8c)
+
 right here!
+
+
 
 here is the snake.exe which you double click to open
 ![Screenshot 2024-05-17 145633](https://github.com/raresh2306/pygame-snake/assets/167786098/7abc650f-ca97-406c-83eb-0dd0c785b816)
+
+
+Example of how questions pop up during the game which the player answer using "T" for true and "F" for false
+
+![intrebare](https://github.com/raresh2306/pygame-snake/assets/167786098/c5db1a27-1a3e-413c-9633-2d909ddc0b2d)
+
+
