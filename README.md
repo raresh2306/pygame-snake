@@ -1,5 +1,11 @@
 # pygame-snake
 
+
+To run the game you MUST install python on your Computer, which you can download from here: https://www.python.org/downloads/ (personally, i recommend downloading the latest version of it)
+
+project made using PyCharm and the pygame library which is installed using cmd (or the ide terminal) and the next command: pip install pygame.
+
+
 snake graphics used: https://opengameart.org/content/snake-game-assets
 
 sound used for background music: https://pixabay.com/music/soft-house-ngini-ija-18489/
@@ -11,14 +17,6 @@ To turn into exe file i used pyinstaller, which you can install by oppening cmd 
 
 here's how i did it:
 ![turn into exe](https://github.com/raresh2306/pygame-snake/assets/167786098/e45dd2ba-b5bc-4941-8c02-2888759b389a)
-
-
-
-To run the game you MUST install python on your Computer, which you can download from here: https://www.python.org/downloads/ (personally, i recommend downloading the latest version of it)
-
-project made using PyCharm and the pygame library which is installed using cmd (or the ide terminal) and the next command: pip install pygame.
-
-
 
 
 
