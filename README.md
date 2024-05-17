@@ -28,17 +28,19 @@ here is the snake.exe which you double click to open
 ![Screenshot 2024-05-17 145633](https://github.com/raresh2306/pygame-snake/assets/167786098/7abc650f-ca97-406c-83eb-0dd0c785b816)
 
 
-      Example of how questions pop up during the game which the player answer using "T" for true and "F" for false
+
+
+Example of how questions pop up during the game which the player answer using "T" for true and "F" for false
       
       
-      ![inainte de raspuns](https://github.com/raresh2306/pygame-snake/assets/167786098/3e01f2b9-a3e0-4252-9062-4933c2bae7ba)
+![inainte de raspuns](https://github.com/raresh2306/pygame-snake/assets/167786098/3e01f2b9-a3e0-4252-9062-4933c2bae7ba)
       
         
-      Example of scoring
+Example of scoring
       
       
-      ![dupa](https://github.com/raresh2306/pygame-snake/assets/167786098/be1361ad-03f1-47d0-947a-ba2ee501e10b)
+![dupa](https://github.com/raresh2306/pygame-snake/assets/167786098/be1361ad-03f1-47d0-947a-ba2ee501e10b)
       
       
-      feedback for your answer
+feedback for your answer
 
