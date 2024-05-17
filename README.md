@@ -28,13 +28,10 @@ here is the snake.exe which you double click to open
 
 Example of how questions pop up during the game which the player answer using "T" for true and "F" for false
 
-![intrebare](https://github.com/raresh2306/pygame-snake/assets/167786098/c5db1a27-1a3e-413c-9633-2d909ddc0b2d)
-
-
 
 ![inainte de raspuns](https://github.com/raresh2306/pygame-snake/assets/167786098/3e01f2b9-a3e0-4252-9062-4933c2bae7ba)
 
-
+  
 Example of scoring
 
 
